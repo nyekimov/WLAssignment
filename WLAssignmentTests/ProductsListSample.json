@@ -1,0 +1,23 @@
+{
+    "id": "45fe1540-f38c-435f-b331-26f007d6d1ed",
+    "products": [
+                 {
+                 "productId": "0150f9b5-8918-4fd1-92b3-fc032cc6c684",
+                 "productName": "Samsung 50\" Class 4K Ultra HD LED Smart TV - UN50JU650DFXZA",
+                 "shortDescription": "bla",
+                 "longDescription": "bla bla",
+                 "price": "$928.00",
+                 "productImage": "https://walmartlabs-test.appspot.com/images/image5.jpeg",
+                 "reviewRating": 4.5,
+                 "reviewCount": 2,
+                 "inStock": true
+                 },
+                 ],
+    "totalProducts": 224,
+    "pageNumber": 1,
+    "pageSize": 30,
+    "status": 200,
+    "kind": "walmart#resourcesItem",
+    "etag": "\"Ofqlw_kr_5Kyit-J_p1R-1u3XOs/BGwXFG5xpb_ihtEgF7FH8r9sX0Y\""
+}
+
